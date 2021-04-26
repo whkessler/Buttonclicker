@@ -1,0 +1,19 @@
+.word{
+    height: 80px;
+    width: 200px;
+    background-color: orangered;
+    position: fixed;
+    justify-content: center;
+    padding-left: 25px;
+}
+.word h1{
+    color: blue; 
+}
+.button{
+    height: 180px;
+    width: 340px;
+    position: relative;
+    top: 190px;
+    padding: 45px;
+}
+
